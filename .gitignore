@@ -1,0 +1,5 @@
+.DS_Store
+arc-bits.zip
+
+# Personal keyboard remap, not part of the extension
+karabiner-chrome-inspect.json
